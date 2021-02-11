@@ -1,0 +1,22 @@
+<resources>
+    <string name="regPageTitle">რეგისტრაცია</string>
+    <string name="loginPageTitle">ჩანაწერების სიაში შესვლა</string>
+    <string name="resetPageTitle">პაროლის აღდგენა</string>
+    <string name="passwordHint">პაროლი</string>
+    <string name="emailHint">ელ.ფოსტა</string>
+    <string name="regButtonText">დარეგისტრირება</string>
+    <string name="or">ან</string>
+    <string name="loginButtonText">ავტორიზაცია</string>
+    <string name="goBack">უკან დაბრუნება</string>
+    <string name="signOut">გასვლა სისტემიდან</string>
+    <string name="forgotPassword">დაგავიწყდათ პაროლი?</string>
+    <string name="confirmPasswordReset">მეილის დადასუტურება</string>
+    <string name="appLogoAlt">Application Description</string>
+    <string name="splashAppTitle">ჩანაწერების სია</string>
+    <string name="splashAppDescription">გიორგი შავლიაშვილი</string>
+    <string name="app_name" translatable="false">ჩანაწერების სია</string>
+    <string name="display_name">სათაური</string>
+    <string name="title">ჩანაწერი</string>
+
+
+</resources>
